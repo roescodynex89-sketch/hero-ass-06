@@ -1,16 +1,23 @@
-# React + Vite
+Project Name : DigiTools – Premium Digital Tools Store..
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Description:
+​DigiTools is a modern, high-performance digital marketplace UI built with React 19. It offers a seamless experience for browsing premium digital products and managing a dynamic shopping cart.
 
-Currently, two official plugins are available:
+🚀 Key Features
+Smart Cart Logic: Prevents duplicate items and provides real-time cart count in the navigation bar.
+​Dynamic Data Rendering: Products are loaded efficiently from a JSON structure with automated tag styling (New, Popular, Best Seller).
+​Interactive UI/UX: Features a smooth toggle between Product and Cart views, complete with toast notifications for every action.
+🧠 Tech Stack
+Frontend: React 19
+Styling: Tailwind CSS
+Icons: React Icons
+​Notifications: React Toastify
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+📂 Project Structure
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+​The project follows a clean, component-based architecture for better maintainability:
+1.​App.jsx: Manages global state (Cart, View toggling).
+2.​Navbar.jsx: Responsive header with dynamic cart badge.
+3.​Card.jsx & SingleCard.jsx: Handles product grid and individual product logic.
+4.​Cart.jsx: Dedicated shopping cart view with total calculation and checkout.
+5.Footers (1-4): Modular footer sections including a professional CTA and social links.
