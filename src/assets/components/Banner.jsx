@@ -12,29 +12,26 @@ const Banner = () => {
 
       <div className="container mx-auto flex flex-col lg:flex-row items-center justify-between gap-12">
 
-        {/* Left Content Section */}
+        {/* Left-Section */}
         <div className="flex-1 space-y-6 md:space-y-10 lg:space-y-14">
 
-          {/* Badge */}
           <div className="inline-flex items-center gap-2 bg-[#e9eef6] px-3 py-1 rounded-full text-sm md:text-lg font-semibold text-[#1D4ED8] border border-blue-200 hover:shadow">
             <span className="w-2 h-2 bg-blue-600 rounded-full"></span>
             New: AI-Powered Tools Available
           </div>
 
-          {/* Heading */}
+         
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-7xl font-black text-[#101727]">
             Supercharge Your <br />
             <span className="text-gray-800">Digital Workflow</span>
           </h1>
 
-          {/* Description */}
           <p className="text-gray-800 text-base md:text-lg lg:text-xl">
             Access premium AI tools, design assets, templates, and productivity
             software—all in one place. Start creating faster today
             Explore Products..
           </p>
 
-          {/* Buttons */}
           <div className="flex flex-col sm:flex-row items-start sm:items-center gap-4 md:gap-5">
 
             <button className="bg-[#2563EB] text-white px-6 py-2 cursor-pointer rounded-3xl font-semibold hover:bg-blue-700 hover:shadow">
@@ -50,7 +47,7 @@ const Banner = () => {
 
         </div>
 
-        {/* Right Image Section */}
+        {/* Right-Img-Section */}
         <div className="flex-1 relative">
 
           <div className="relative z-10 w-full max-w-md md:max-w-lg lg:max-w-xl mx-auto">

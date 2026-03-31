@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "AI Resume Builder",
+    "description": "Create ATS friendly resumes instantly",
+    "price": 9,
+    "period": "one-time",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["100+ templates", "ATS optimization", "Export to PDF"],
+    "icon": "public/operation.png"
+  },
+  {
+    "id": 2,
+    "name": "Social Media Kit",
+    "description": "Ready-to-use social media design pack",
+    "price": 12,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Instagram templates", "Facebook covers", "Canva support"],
+    "icon": "public/design-tool.png"
+  },
+  {
+    "id": 3,
+    "name": "Logo Maker Pro",
+    "description": "Generate logos with AI support",
+    "price": 15,
+    "period": "one-time",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["AI logo generator", "Vector export", "Brand kit"],
+    "icon": "public/portfolio.png"
+  },
+  {
+    "id": 4,
+    "name": "Website UI Kit",
+    "description": "Modern UI components for websites",
+    "price": 20,
+    "period": "yearly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Figma components", "React layouts", "Dark mode ready"],
+    "icon": "public/shopping-cart.png"
+  },
+  {
+    "id": 5,
+    "name": "Startup Pitch Deck",
+    "description": "Professional investor pitch templates",
+    "price": 18,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Investor slides", "Editable charts", "Modern design"],
+    "icon": "public/social-media.png"
+  },
+  {
+    "id": 6,
+    "name": "AI Copywriting Tool",
+    "description": "Generate marketing content instantly",
+    "price": 25,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Blog writer", "Ad copy generator", "SEO optimization"],
+    "icon": "public/writing_2327400 1.png"
+  },
+  {
+    "id": 7,
+    "name": "Productivity Planner",
+    "description": "Digital planner for daily workflow",
+    "price": 6,
+    "period": "one-time",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Task manager", "Calendar sync", "Goal tracker"],
+    "icon": "public/shopping-cart.png"
+  },
+  {
+    "id": 8,
+    "name": "Portfolio Builder",
+    "description": "Create developer portfolio websites",
+    "price": 14,
+    "period": "yearly",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Portfolio templates", "Hosting support", "Custom domain"],
+    "icon": "public/social-media.png"
+  }
+  
+  
+]
