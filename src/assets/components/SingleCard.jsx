@@ -67,7 +67,14 @@ const SingleCard = ({ product, addToCart, cart }) => {
             : "bg-[#2563EB] text-white cursor-pointer hover:bg-blue-700 hover:shadow-lg active:scale-95"
         }`}
       >
-        {isSelected ? "✓ Added to Cart" : "Buy Now"}
+        {isSelected ? (
+          <span className="flex items-center gap-2 justify-center">
+            <FaCheck className="text-green-500 text-[12px] mt-1" /> Added to
+            Cart
+          </span>
+        ) : (
+          "Buy Now"
+        )}
       </button>
     </div>
   );
