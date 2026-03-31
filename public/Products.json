@@ -8,7 +8,7 @@
     "tag": "popular",
     "tagType": "popular",
     "features": ["100+ templates", "ATS optimization", "Export to PDF"],
-    "icon": "public/operation.png"
+    "icon": "/operation.png"
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
     "tag": "new",
     "tagType": "new",
     "features": ["Instagram templates", "Facebook covers", "Canva support"],
-    "icon": "public/design-tool.png"
+    "icon": "/design-tool.png"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
     "tag": "best seller",
     "tagType": "best seller",
     "features": ["AI logo generator", "Vector export", "Brand kit"],
-    "icon": "public/portfolio.png"
+    "icon": "/portfolio.png"
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
     "tag": "popular",
     "tagType": "popular",
     "features": ["Figma components", "React layouts", "Dark mode ready"],
-    "icon": "public/shopping-cart.png"
+    "icon": "/shopping-cart.png"
   },
   {
     "id": 5,
@@ -52,7 +52,7 @@
     "tag": "new",
     "tagType": "new",
     "features": ["Investor slides", "Editable charts", "Modern design"],
-    "icon": "public/social-media.png"
+    "icon": "/social-media.png"
   },
   {
     "id": 6,
@@ -63,7 +63,7 @@
     "tag": "best seller",
     "tagType": "best seller",
     "features": ["Blog writer", "Ad copy generator", "SEO optimization"],
-    "icon": "public/writing_2327400 1.png"
+    "icon": "/writing_2327400 1.png"
   },
   {
     "id": 7,
@@ -74,7 +74,7 @@
     "tag": "popular",
     "tagType": "popular",
     "features": ["Task manager", "Calendar sync", "Goal tracker"],
-    "icon": "public/shopping-cart.png"
+    "icon": "/shopping-cart.png"
   },
   {
     "id": 8,
@@ -85,7 +85,7 @@
     "tag": "new",
     "tagType": "new",
     "features": ["Portfolio templates", "Hosting support", "Custom domain"],
-    "icon": "public/social-media.png"
+    "icon": "/social-media.png"
   }
   
   
